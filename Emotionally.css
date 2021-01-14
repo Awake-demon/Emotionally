@@ -14,7 +14,7 @@ body {
   #heart {
     fill: #eee;
     stroke-width: 20px;
-    stroke: red;
+    stroke: #FFC0CB;
     stroke-dasharray: 1600;
     stroke-dashoffset: 1600;
     stroke-linecap: round;
