@@ -31,7 +31,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
     
-    box-shadow: 0 -160px 0 red, 0 160px 0 red, -160px 0 0 red, 160px 0 0 red;
+    box-shadow: 0 -160px 0 	#FFC0CB, 0 160px 0 	#FFC0CB, -160px 0 0 	#FFC0CB, 160px 0 0 	#FFC0CB;
   }
   
   span::after {
@@ -60,7 +60,7 @@ body {
       fill: #eee;
     }
     100% {
-      fill: red;
+      fill: #FFC0CB;
       stroke-dashoffset: 0;
     }
   }
